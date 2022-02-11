@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pipocaci
-- 👀 I’m interested in aprofundar meu conhecimento 
+- 👀 I’m interested in deepen my knowledge
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on em varios projetos
+- 💞️ I’m looking to collaborate on several projects
 - 📫 How to reach me assaltluiz@gmail.com
 
 <!---
